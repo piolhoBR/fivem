@@ -5,11 +5,11 @@ apiset: server
 ## GET_PLAYER_PED
 
 ```c
-Entity GET_PLAYER_PED(char* playerSrc);
+Entity GET_PLAYER_PED(char* player);
 ```
 
 
 ## Parameters
-* **playerSrc**: 
+* **player**: 
 
 ## Return value
